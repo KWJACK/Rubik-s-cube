@@ -1,0 +1,9 @@
+﻿빌드 시작: 2015-09-17 오후 3:57:59
+     1>2 노드의 "C:\Users\Coms7\Documents\Visual Studio 2013\Projects\1_C_2012722081_이재근_ver3\project_2012722081\assignment4_10_2012722081\assignment4_10_2012722081.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         assignment4_10_2012722081.vcxproj -> C:\Users\Coms7\Documents\Visual Studio 2013\Projects\1_C_2012722081_이재근_ver3\project_2012722081\Debug\assignment4_10_2012722081.exe
+     1>"C:\Users\Coms7\Documents\Visual Studio 2013\Projects\1_C_2012722081_이재근_ver3\project_2012722081\assignment4_10_2012722081\assignment4_10_2012722081.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.06
